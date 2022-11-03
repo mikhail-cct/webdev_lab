@@ -1,0 +1,12 @@
+h1 {
+    color:red
+}
+
+.underline {
+    text-decoration: underline;     
+    text-decoration-color: blue;
+}
+
+.blued {
+    color:blue
+}
